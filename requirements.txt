@@ -1,0 +1,24 @@
+# Customer Segmentation - K-Means Clustering Project
+# Core Data Science Libraries
+pandas>=1.3.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+
+# Visualization Libraries
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Web Application
+streamlit>=1.28.0
+plotly>=5.0.0
+
+# Jupyter Environment
+jupyter>=1.0.0
+jupyterlab>=3.0.0
+ipykernel>=6.0.0
+
+# Additional ML Libraries
+scipy>=1.7.0
+
+# Development and Documentation
+notebook>=6.4.0 
